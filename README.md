@@ -86,6 +86,25 @@ The project also reflects an understanding of modern maritime sustainability con
 
 
 ---
+# Problem Solved
+
+Shipping companies face increasing pressure to monitor fuel efficiency, vessel emissions, and environmental compliance due to IMO regulations and rising operational fuel costs.
+
+In many real-world maritime operations, daily vessel data such as fuel consumption, cargo weight, and travelled distance must be analyzed to evaluate operational efficiency and environmental performance.
+
+This project solves the problem by:
+
+- collecting operational voyage data
+- calculating vessel CO₂ emissions
+- evaluating EEOI efficiency scores
+- generating IMO-inspired CII ratings
+- estimating carbon tax impact
+- storing historical voyage records
+- generating operational reports automatically
+
+The tool helps simulate how maritime companies monitor vessel performance and emission efficiency for operational analysis and sustainability tracking.
+
+---
 
 # Screenshots  
 Main User Interface
