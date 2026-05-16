@@ -107,20 +107,28 @@ The tool helps simulate how maritime companies monitor vessel performance and em
 ---
 
 # Screenshots  
-Main User Interface
+## Main User Interface
 
-(Add Screenshot Here)
+![UI](screenshots/UI.png)
 
-Generated Analysis Result
+---
 
-(Add Screenshot Here)
+## Generated Analysis Result
 
-Validation/Error Handling
+![Report](screenshots/report.png)
 
-(Add Screenshot Here)
+---
+
+## Validation/Error Handling
+
+![Validation-1](screenshots/Validation-1.png)
 
 
 
+![Validation-2](screenshots/Validation-2.png)
+
+
+---
 
 # Installation
 
