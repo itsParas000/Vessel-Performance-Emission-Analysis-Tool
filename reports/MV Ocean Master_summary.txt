@@ -1,0 +1,11 @@
+Date:2026-05-16 15:11:03.111087
+Vessel: MV Ocean Master
+Fuel Type: LNG
+Fuel Quantity: 60.0 MT
+Distance: 7000.0 NM
+Cargo Weight: 25000.0 MT
+Total CO2: 165.0 tons
+EEOI Score: 0.94
+CII Rating: A (Superior)
+Estimated Carbon Tax: $16,500.00
+----------------------------------------

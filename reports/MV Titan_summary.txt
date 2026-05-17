@@ -1,0 +1,66 @@
+Date:2026-05-17 13:04:46.419316
+Vessel: MV Titan
+Fuel Type: VLSFO
+Fuel Quantity: 110.0 MT
+Distance: 420.0 NM
+Cargo Weight: 24000.0 MT
+Total CO2: 342.54 tons
+EEOI Score: 33.98
+CII Rating: E (Inferior)
+Estimated Carbon Tax: $34,254.00
+----------------------------------------
+Date:2026-05-17 13:08:00.854989
+Vessel: MV Titan
+Fuel Type: VLSFO
+Fuel Quantity: 80.0 MT
+Distance: 400.0 NM
+Cargo Weight: 22000.0 MT
+Total CO2: 249.12 tons
+EEOI Score: 28.31
+CII Rating: E (Inferior)
+Estimated Carbon Tax: $24,912.00
+----------------------------------------
+Date:2026-05-17 13:08:19.549979
+Vessel: MV Titan
+Fuel Type: VLSFO
+Fuel Quantity: 120.0 MT
+Distance: 400.0 NM
+Cargo Weight: 18000.0 MT
+Total CO2: 373.68 tons
+EEOI Score: 51.9
+CII Rating: E (Inferior)
+Estimated Carbon Tax: $37,368.00
+----------------------------------------
+Date:2026-05-17 13:08:31.637150
+Vessel: MV Titan
+Fuel Type: VLSFO
+Fuel Quantity: 120.0 MT
+Distance: 4000.0 NM
+Cargo Weight: 18000.0 MT
+Total CO2: 373.68 tons
+EEOI Score: 5.19
+CII Rating: A (Superior)
+Estimated Carbon Tax: $37,368.00
+----------------------------------------
+Date:2026-05-17 13:08:40.900731
+Vessel: MV Titan
+Fuel Type: VLSFO
+Fuel Quantity: 120.0 MT
+Distance: 3000.0 NM
+Cargo Weight: 18000.0 MT
+Total CO2: 373.68 tons
+EEOI Score: 6.92
+CII Rating: A (Superior)
+Estimated Carbon Tax: $37,368.00
+----------------------------------------
+Date:2026-05-17 13:09:16.796255
+Vessel: MV Titan
+Fuel Type: VLSFO
+Fuel Quantity: 100.0 MT
+Distance: 3000.0 NM
+Cargo Weight: 10000.0 MT
+Total CO2: 311.4 tons
+EEOI Score: 10.38
+CII Rating: C (Moderate)
+Estimated Carbon Tax: $31,140.00
+----------------------------------------

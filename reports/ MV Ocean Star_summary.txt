@@ -1,0 +1,11 @@
+Date:2026-05-17 12:59:36.750861
+Vessel:  MV Ocean Star
+Fuel Type: LNG
+Fuel Quantity: 18.0 MT
+Distance: 1450.0 NM
+Cargo Weight: 52000.0 MT
+Total CO2: 49.5 tons
+EEOI Score: 0.66
+CII Rating: A (Superior)
+Estimated Carbon Tax: $4,950.00
+----------------------------------------

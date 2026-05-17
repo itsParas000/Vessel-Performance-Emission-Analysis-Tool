@@ -1,0 +1,132 @@
+Date:2026-05-16 15:06:14.414579
+Vessel: MV Ocean Star
+Fuel Type: VLSFO
+Fuel Quantity: 0.01 MT
+Distance: 0.01 NM
+Cargo Weight: 0.01 MT
+Total CO2: 0.03 tons
+EEOI Score: 300000000.0
+CII Rating: E (Inferior)
+Estimated Carbon Tax: $3.00
+----------------------------------------
+Date:2026-05-16 15:09:01.283828
+Vessel: MV Ocean Star
+Fuel Type: VLSFO
+Fuel Quantity: 50.0 MT
+Distance: 5000.0 NM
+Cargo Weight: 20000.0 MT
+Total CO2: 155.7 tons
+EEOI Score: 1.56
+CII Rating: A (Superior)
+Estimated Carbon Tax: $15,570.00
+----------------------------------------
+Date:2026-05-17 13:10:04.219536
+Vessel: MV Ocean Star
+Fuel Type: LNG
+Fuel Quantity: 100.0 MT
+Distance: 3000.0 NM
+Cargo Weight: 10000.0 MT
+Total CO2: 275.0 tons
+EEOI Score: 9.17
+CII Rating: B (Good)
+Estimated Carbon Tax: $27,500.00
+----------------------------------------
+Date:2026-05-17 13:10:46.933477
+Vessel: MV Ocean Star
+Fuel Type: LNG
+Fuel Quantity: 100.0 MT
+Distance: 5500.0 NM
+Cargo Weight: 15000.0 MT
+Total CO2: 275.0 tons
+EEOI Score: 3.33
+CII Rating: A (Superior)
+Estimated Carbon Tax: $27,500.00
+----------------------------------------
+Date:2026-05-17 13:11:04.329384
+Vessel: MV Ocean Star
+Fuel Type: LNG
+Fuel Quantity: 110.0 MT
+Distance: 4500.0 NM
+Cargo Weight: 13000.0 MT
+Total CO2: 302.5 tons
+EEOI Score: 5.17
+CII Rating: A (Superior)
+Estimated Carbon Tax: $30,250.00
+----------------------------------------
+Date:2026-05-17 13:11:17.917607
+Vessel: MV Ocean Star
+Fuel Type: LNG
+Fuel Quantity: 110.0 MT
+Distance: 4200.0 NM
+Cargo Weight: 12000.0 MT
+Total CO2: 302.5 tons
+EEOI Score: 6.0
+CII Rating: A (Superior)
+Estimated Carbon Tax: $30,250.00
+----------------------------------------
+Date:2026-05-17 13:11:29.892207
+Vessel: MV Ocean Star
+Fuel Type: LNG
+Fuel Quantity: 110.0 MT
+Distance: 4000.0 NM
+Cargo Weight: 11000.0 MT
+Total CO2: 302.5 tons
+EEOI Score: 6.88
+CII Rating: A (Superior)
+Estimated Carbon Tax: $30,250.00
+----------------------------------------
+Date:2026-05-17 13:11:40.932157
+Vessel: MV Ocean Star
+Fuel Type: LNG
+Fuel Quantity: 110.0 MT
+Distance: 3800.0 NM
+Cargo Weight: 10000.0 MT
+Total CO2: 302.5 tons
+EEOI Score: 7.96
+CII Rating: A (Superior)
+Estimated Carbon Tax: $30,250.00
+----------------------------------------
+Date:2026-05-17 13:11:51.622525
+Vessel: MV Ocean Star
+Fuel Type: LNG
+Fuel Quantity: 110.0 MT
+Distance: 3500.0 NM
+Cargo Weight: 9000.0 MT
+Total CO2: 302.5 tons
+EEOI Score: 9.6
+CII Rating: C (Moderate)
+Estimated Carbon Tax: $30,250.00
+----------------------------------------
+Date:2026-05-17 13:11:59.972117
+Vessel: MV Ocean Star
+Fuel Type: LNG
+Fuel Quantity: 110.0 MT
+Distance: 3500.0 NM
+Cargo Weight: 9200.0 MT
+Total CO2: 302.5 tons
+EEOI Score: 9.39
+CII Rating: B (Good)
+Estimated Carbon Tax: $30,250.00
+----------------------------------------
+Date:2026-05-17 13:12:09.674205
+Vessel: MV Ocean Star
+Fuel Type: LNG
+Fuel Quantity: 110.0 MT
+Distance: 3200.0 NM
+Cargo Weight: 9200.0 MT
+Total CO2: 302.5 tons
+EEOI Score: 10.28
+CII Rating: C (Moderate)
+Estimated Carbon Tax: $30,250.00
+----------------------------------------
+Date:2026-05-17 13:12:19.878121
+Vessel: MV Ocean Star
+Fuel Type: LNG
+Fuel Quantity: 110.0 MT
+Distance: 3100.0 NM
+Cargo Weight: 9100.0 MT
+Total CO2: 302.5 tons
+EEOI Score: 10.72
+CII Rating: D (Below Average)
+Estimated Carbon Tax: $30,250.00
+----------------------------------------

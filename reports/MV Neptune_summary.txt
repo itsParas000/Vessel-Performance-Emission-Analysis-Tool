@@ -1,0 +1,11 @@
+Date:2026-05-17 13:02:01.853440
+Vessel: MV Neptune
+Fuel Type: VLSFO
+Fuel Quantity: 35.0 MT
+Distance: 980.0 NM
+Cargo Weight: 48000.0 MT
+Total CO2: 108.99 tons
+EEOI Score: 2.32
+CII Rating: A (Superior)
+Estimated Carbon Tax: $10,899.00
+----------------------------------------

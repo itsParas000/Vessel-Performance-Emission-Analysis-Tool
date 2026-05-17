@@ -1,0 +1,11 @@
+Date:2026-05-17 13:04:05.023601
+Vessel: MV Sea Horizon
+Fuel Type: VLSFO
+Fuel Quantity: 78.0 MT
+Distance: 610.0 NM
+Cargo Weight: 32000.0 MT
+Total CO2: 242.89 tons
+EEOI Score: 12.44
+CII Rating: E (Inferior)
+Estimated Carbon Tax: $24,289.00
+----------------------------------------
